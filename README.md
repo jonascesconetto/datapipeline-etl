@@ -1,5 +1,5 @@
-## First steps with Apache Airflow
-<!-- Este repositório contém os códigos utilizados durante curso de Data Pipelines com Apache Airflow. -->
+## Datapipeline de ETL com Airflow
+  Este repositório contém alguns arquivos e códigos utilizados durante curso de `Data Pipelines com Apache Airflow `.
 ### Requisitos
 - Necessidade de separar os dados do ambiente OLTP para o ambiente OLAP
 - Todas as tarefas devem ser executadas diariamente
